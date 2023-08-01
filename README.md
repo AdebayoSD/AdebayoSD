@@ -4,12 +4,11 @@ Interesting Facts about me:
 
 🔭 I collect, clean, and analyze data sets to find insights to solve a problem
 🌱 I led the deployment of Power BI infrastructure at Philip Morris.
-👯 I’m looking to collaborate with other data professionals to work on real world and make data driven decisions
-🤔 I’m looking to be a part of the pilot of digital products
+👯  I’m looking to be a part of the pilot of digital products
 💬 Ask me about a subject relating to data analytics
 📫 How to reach me: 
 😄 Pronouns: He/Him
-⚡ Fun fact: I love movies. I play Board games such as Chess, Scrabble etc.
+⚡ Fun fact: I love movies, swimming and traveling
 Tools I use for Data Analysis
 Python
 Microsoft Excel
